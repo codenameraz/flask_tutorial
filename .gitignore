@@ -5,4 +5,4 @@ microblog/venv/
 # Ignore
 microblog/*.pyc
 microblog/*.db
-microblog/*.flaskenv
+microblog/.flaskenv
