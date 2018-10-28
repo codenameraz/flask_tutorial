@@ -1,7 +1,8 @@
 # Don't track these folders
 microblog/__pycache__/
+microblog/venv/
 
 # Ignore
 microblog/*.pyc
 microblog/*.db
-
+microblog/*.flaskenv
