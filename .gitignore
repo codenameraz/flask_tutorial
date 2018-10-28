@@ -1,7 +1,7 @@
 # Don't track these folders
-__pycache__/
+microblog/__pycache__/
 
 # Ignore
-*.pyc
-*.db
+microblog/*.pyc
+microblog/*.db
 
